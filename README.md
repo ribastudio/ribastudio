@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Riba Jr
-![I'm a](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm an advertiser / graphic designer who studies UX|UI and full stack languages, for the near future contribute to the best experience in any place.
 
